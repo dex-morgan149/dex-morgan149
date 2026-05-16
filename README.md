@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/dex-morgan149/dex-morgan149/main/bleach girls.jpeg" width="100%" />
+<img src="https://raw.githubusercontent.com/dex-morgan149/dex-morgan149/main/bleach girls.jpg" width="100%" />
 </div>
 
 ## Languages I Use for Projects:
